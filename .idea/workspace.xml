@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c3a86b-2c03-4a44-ae97-ca99b1ec9e18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videojuegos.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/ValidationMessages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/ImagenConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/VideosjuegosApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/controllers/Controlador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/controllers/controladorVideojuego.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/entities/Categoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/entities/Estudio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/entities/Videojuego.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/repositories/RepositorioCategoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/repositories/RepositorioEstudio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/repositories/RepositorioVideojuego.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioCategoria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioEstudio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioVideojuego.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/components/card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/components/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/busqueda.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/crud.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/detalle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/formulario/eliminar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/formulario/videojuego.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/inicio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/target/test-classes/com/finalProgramacion/videosjuegos/VideosjuegosApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videosjuegos/videosjuegos.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="63c3a86b-2c03-4a44-ae97-ca99b1ec9e18" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
