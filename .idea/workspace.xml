@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63c3a86b-2c03-4a44-ae97-ca99b1ec9e18" name="Changes" comment="" />
+    <list default="true" id="63c3a86b-2c03-4a44-ae97-ca99b1ec9e18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videojuegos.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/ValidationMessages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/ImagenConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/VideosjuegosApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/controllers/Controlador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/controllers/controladorVideojuego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/entities/Categoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/entities/Estudio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/entities/Videojuego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/repositories/RepositorioCategoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/repositories/RepositorioEstudio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/repositories/RepositorioVideojuego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioCategoria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioEstudio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/com/finalProgramacion/videosjuegos/servicies/ServicioVideojuego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/components/card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/components/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/busqueda.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/crud.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/detalle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/formulario/eliminar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/formulario/videojuego.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/classes/templates/views/inicio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/target/test-classes/com/finalProgramacion/videosjuegos/VideosjuegosApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/videosjuegos/videosjuegos.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +53,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -36,7 +73,11 @@
       </map>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
   <component name="ProjectId" id="1zNqRPNHOJVwu1uu5EpKdtti48O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,9 +88,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="VideosjuegosApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.finalProgramacion.videosjuegos.VideosjuegosApplication" />
-      <module name="videosjuegos" />
+    <configuration name="VideojuegosApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.finalProgramacion.videojuegos.VideojuegosApplication" />
+      <module name="videojuegos" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.finalProgramacion.videosjuegos.*" />
@@ -62,7 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VideosjuegosApplication" />
+        <item itemvalue="Application.VideojuegosApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -76,5 +117,8 @@
       <updated>1633998888364</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
